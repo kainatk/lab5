@@ -22,6 +22,10 @@ img {
   margin: 0em;
 } 
 
+.image-background{
+  background-color: #000000;
+}
+
 #planets{
   border-collapse: collapse;
   border: 1px solid black;
@@ -31,17 +35,18 @@ img {
 
 .planet-names{
   color: #008080;
+  background-color: #FFFFFF  ;
   font-size: 2em;
   font-weight: bold;
 }
 
 .headings{
-  background-color: #FFB6C1	;
+  background-color: #FFFFFF ;
   text-align: left;
 }
 
 .hover-facts:hover td{
-  background-color: #008080 ;
+  background-color: #FFB6C1 ;
 } 
 
 .pname{
